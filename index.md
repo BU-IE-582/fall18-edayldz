@@ -2,3 +2,9 @@
 #Week0 September 19
 
 [Here](example_homework_0.html) is my 5 interesting R examples
+
+
+# HW1
+#Week4 October 10
+
+[Here](HW582_RMD.html) is my first homework.
