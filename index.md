@@ -8,3 +8,14 @@
 #Week4 October 10
 
 [Here](HW582_RMD.html) is my first homework.
+
+
+# HW2
+#Week6 October 26
+
+[Here](HW2_RMD.html) is my first homework.
+
+
+
+
+
