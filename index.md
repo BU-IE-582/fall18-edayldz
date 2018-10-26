@@ -13,7 +13,7 @@
 # HW2
 #Week6 October 26
 
-[Here](HW2_RMD.html) is my first homework.
+[Here](HW2_RMD.html) is my second homework.
 
 
 
