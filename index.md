@@ -15,7 +15,9 @@
 
 [Here](HW2_RMD.html) is my second homework.
 
+# HW2
+#Week6 November 18
 
-
-
+[Here](HW3.html) is my third homework.
+The related RCode can also be seen in my files.
 
