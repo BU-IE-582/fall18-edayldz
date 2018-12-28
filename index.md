@@ -21,3 +21,8 @@
 [Here](HW3.html) is my third homework.
 The related RCode can also be seen in my files.
 
+# Bonus HW
+
+
+[Here](Bonus_HW.html) is bonus homework.
+
